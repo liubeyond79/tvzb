@@ -6,5 +6,8 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/liubeyond79/tvzb/main/zb.tx
 修改显示名称：用MT管理器打开要编译的APK文件，点击AndroidManifest.xml，点反编译，向下找到android:label后面的字符，返回，点击resources.arsc弹出窗口点Arsc编辑器，再点击ID定位资源，黏贴ID点确定，点击出来修改名称，点确定，然后保存即可。
 所用工具在123网盘IPTV空壳及修改软件里面
 
-bg-live.txt源自Wave-Zhou/tv，链接https://github.com/Wave-Zhou/tv/tree/main
+bg-live.txt源自Wave-Zhou/tv，有江西频道，链接https://github.com/Wave-Zhou/tv/tree/main
 RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/tv.txt
+
+yuan.txt源自mabin1989/zhiboyuan，有江西频道，锭接https://github.com/mabin1989/zhiboyuan
+RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/mabin1989/zhiboyuan/main/yuan.txt

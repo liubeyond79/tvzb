@@ -11,3 +11,5 @@ RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/ma
 
 yuan.txt源自mabin1989/zhiboyuan，有江西频道，锭接https://github.com/mabin1989/zhiboyuan
 RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/mabin1989/zhiboyuan/main/yuan.txt
+
+自动更新IPV4直播源（m3u自动转txt）：https://fanmingming.com/txt?url=https://mirror.ghproxy.com/raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u

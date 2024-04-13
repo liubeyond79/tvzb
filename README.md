@@ -13,3 +13,6 @@ yuan.txt源自mabin1989/zhiboyuan，有江西频道，锭接https://github.com/m
 RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/mabin1989/zhiboyuan/main/yuan.txt
 
 自动更新IPV4直播源（m3u自动转txt）：https://fanmingming.com/txt?url=https://mirror.ghproxy.com/raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
+电信线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/dxtv.txt
+移动线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/ydtv.txt
+联通线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/lttv.txt

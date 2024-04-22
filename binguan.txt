@@ -24,11 +24,6 @@
 南昌文旅频道,http://live.cooltv.top/tv/nctv.php?id=2
 南昌资讯频道,http://live.cooltv.top/tv/nctv.php?id=3
 
-吉安综合频道,http://stream.ijatv.com/jatv1/playlist.m3u8?_upt=efccfa751702614100
-吉安综合频道,http://stream.ijatv.com/jatv1/hd/live.m3u8?_upt=cedae6cd1702614097
-吉安公共频道,http://stream.ijatv.com/jatv2/playlist.m3u8?_upt=5ce958601702614117
-吉安公共频道,http://stream.ijatv.com/jatv2/hd/live.m3u8?_upt=ddd2c3561702614113
-
 赣州新闻,http://wb.jxgztv.com/live/gztv1.flv
 赣州公共,http://wb.jxgztv.com/live/gztv2.flv
 赣州教育,http://wb.jxgztv.com/live/gztv3.flv

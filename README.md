@@ -21,3 +21,5 @@ RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/mabin1989/zhibo
 移动线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/ydtv.txt
 
 联通线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/lttv.txt
+
+直播源（Wave-Zhou）：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/tv.txt

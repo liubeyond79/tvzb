@@ -17,9 +17,16 @@ RAW链接：https://mirror.ghproxy.com/raw.githubusercontent.com/mabin1989/zhibo
 自动更新IPV4直播源（m3u自动转txt）：https://fanmingming.com/txt?url=https://mirror.ghproxy.com/raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
 
 电信线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/dxtv.txt
+https://mirror.ghproxy.com/raw.githubusercontent.com/liubeyond79/wavezhou-tv/main/dxtv.txt
 
 移动线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/ydtv.txt
+https://mirror.ghproxy.com//raw.githubusercontent.com/liubeyond79/wavezhou-tv/main/ydtv.txt
 
 联通线路直播源：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/lttv.txt
+https://mirror.ghproxy.com//raw.githubusercontent.com/liubeyond79/wavezhou-tv/main/lttv.txt
 
 直播源（Wave-Zhou）：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/tv.txt
+https://mirror.ghproxy.com//raw.githubusercontent.com/liubeyond79/wavezhou-tv/main/tv.txt
+
+IPV6直播源（Wave-Zhou）：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/tvzb.txt
+https://mirror.ghproxy.com//raw.githubusercontent.com/liubeyond79/wavezhou-tv/main/tvzb.txt

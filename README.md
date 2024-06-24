@@ -31,4 +31,6 @@ https://mirror.ghproxy.com//raw.githubusercontent.com/liubeyond79/wavezhou-tv/ma
 IPV6直播源（Wave-Zhou）：https://mirror.ghproxy.com/raw.githubusercontent.com/Wave-Zhou/tv/main/tvzb.txt
 https://mirror.ghproxy.com//raw.githubusercontent.com/liubeyond79/wavezhou-tv/main/tvzb.txt
 
-IPV6&IPV4直播源（wwb521）https://github.moeyy.xyz/raw.githubusercontent.com/wwb521/live/main/tv.txt
+IPV6&IPV4直播源（wwb521）：https://github.moeyy.xyz/raw.githubusercontent.com/wwb521/live/main/tv.txt
+
+最新有效的iptv4直播源：https://mirror.ghproxy.com/https://raw.githubusercontent.com/vbskycn/iptv4/master/iptv4.txt

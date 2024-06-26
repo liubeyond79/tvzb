@@ -35,8 +35,6 @@ CCTV8,rtsp://115.153.254.81/PLTV/88888888/224/3221226854/63329578.smil
 导视,rtsp://115.153.254.81/PLTV/88888888/224/3221225623/iptv8002.smil
 中国天气,rtsp://115.153.254.81/PLTV/88888888/224/3221227056/89471929.smil
 
-
-
 江西频道,#genre#
 江西卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226656/46275837.smil
 江西都市频道,rtsp://115.153.254.81/PLTV/88888888/224/3221227069/94448631.smil
@@ -47,8 +45,6 @@ CCTV8,rtsp://115.153.254.81/PLTV/88888888/224/3221226854/63329578.smil
 江西教育,rtsp://115.153.254.81/PLTV/88888888/224/3221226942/69552502.smil
 江西少儿,rtsp://115.153.254.81/PLTV/88888888/224/3221226724/53707450.smil
 江西移动,rtsp://115.153.254.81/PLTV/88888888/224/3221227070/96801473.smil
-
-
 
 卫视频道,#genre#
 湖南卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225697/iptv8039.smil
@@ -87,8 +83,6 @@ CCTV8,rtsp://115.153.254.81/PLTV/88888888/224/3221226854/63329578.smil
 厦门卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226982/85722609.smil
 三沙卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226984/85722645.smil
 
-
-
 体育频道,#genre#
 CCTV5,rtsp://115.153.254.81/PLTV/88888888/224/3221226852/63329574.smil
 CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
@@ -114,11 +108,6 @@ CCTV5+,rtsp://115.153.254.81/PLTV/88888888/224/3221226976/85722488.smil
 卡酷卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225566/iptv101695.smil
 嘉佳卡通,rtsp://115.153.254.81/PLTV/88888888/224/3221225588/10000100000000060000000000140157_0.smil
 好学生,rtsp://115.153.254.81/PLTV/88888888/224/3221227026/86441141.smil
-
-
-
-
-
 
 特色频道,#genre#
 世界地理,rtsp://115.153.254.81/PLTV/88888888/224/3221226965/86128966.smil
@@ -218,6 +207,7 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+
 卫视频道IPV6,#genre#
 龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 安徽卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
@@ -280,6 +270,7 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 数字频道IPV6,#genre#
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
@@ -345,6 +336,7 @@ SITV金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000020000
 文物宝库,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
 梨园,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 茶,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
+
 地方频道IPV6,#genre#
 东方影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 东方影视,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
@@ -380,7 +372,6 @@ SITV金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/20000000020000
 内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 七彩戏剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
 七彩戏剧,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
 
 央视频道IPV4,#genre#
 CCTV1,http://1b6467f415.iok.la:9931/tsfile/live/1020_1.m3u8
@@ -571,6 +562,7 @@ CHC家庭影院,http://124.230.56.20:55555/udp/239.76.245.241:1234
 风云足球,http://124.230.56.20:55555/udp/239.76.254.52:9000
 兵器科技,http://124.230.56.20:55555/udp/239.76.254.59:9000
 第一剧场,http://124.230.56.20:55555/udp/239.76.254.49:9000
+
 卫视频道IPV4,#genre#
 安徽卫视,http://58.41.27.144:18888/udp/239.45.1.120:5140
 安徽卫视,http://mdxgh.tpddns.cn:88/mdxgh/anhui
@@ -918,6 +910,7 @@ CHC家庭影院,http://124.230.56.20:55555/udp/239.76.245.241:1234
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 影视频道IPV4,#genre#
 CHC动作电影,http://iku.sunnyli.link:4144/udp/239.252.219.85:5140
 CHC动作电影,http://106.59.3.3:55555/udp/239.200.201.31:8144
@@ -930,8 +923,7 @@ CHC高清电影,http://www.yao87.com:4022/udp/239.76.245.242:1234
 CHC家庭影院,http://iku.sunnyli.link:4144/udp/239.252.219.84:5140
 CHC家庭影院,http://www.yao87.com:4022/udp/239.76.245.241:1234
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
-数字频道IPV4,#genre#
-嘉佳卡通,http://113.117.218.245:8686/udp/239.77.0.179:5146
+
 少儿频道IPV4,#genre#
 优漫卡通,http://221.213.92.55:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 优漫卡通,http://wouu.net:9977/udp/239.93.0.251:5140
@@ -964,6 +956,7 @@ CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
 哈哈炫动,http://nas.hssvm.com:8888/udp/225.1.1.62:5002
 哈哈炫动,http://123.154.30.68:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 哈哈炫动,http://116.233.220.113:1688/udp/239.45.1.55:5140
+
 地方频道IPV4,#genre#
 广东珠江,http://14.121.146.11:554/udp/239.77.0.114:5146
 广东珠江,http://14.121.146.11:554/udp/239.77.0.1:5146
@@ -995,6 +988,7 @@ CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+
 港·澳·台IPV4,#genre#
 凤凰中文,http://171.223.215.229:4000/udp/239.93.1.9:2192
 凤凰中文,http://1b6467f415.iok.la:9931/tsfile/live/1037_1.m3u8

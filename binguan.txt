@@ -1,11 +1,11 @@
 江西频道,#genre#
 江西卫视,rtsp://115.153.254.81:554/PLTV/88888888/224/3221225557/iptv7969.smil
-江西都市频道,rtsp://115.153.254.81:6314554/PLTV/88888888/224/3221226728/53707442.smil
+江西都市频道,rtsp://115.153.254.81:554/PLTV/88888888/224/3221226728/53707442.smil
 江西经济生活,rtsp://115.153.254.81:6314554/PLTV/88888888/224/3221226717/53707446.smil
 江西影视旅游,rtsp://115.153.254.81:554/PLTV/88888888/224/3221226704/53213102.smil
 江西公共农业,rtsp://115.153.254.81:6314554/PLTV/88888888/224/3221227066/95315400.smil
 江西少儿,rtsp://115.153.254.81:554/PLTV/88888888/224/3221226724/53707450.smil
-江西新闻,rtsp://115.153.254.81:6314554/PLTV/88888888/224/3221226654/53213094.smil
+江西新闻,rtsp://115.153.254.81:554/PLTV/88888888/224/3221226654/53213094.smil
 江西教育,rtsp://115.153.254.81:554/PLTV/88888888/224/3221226568/10000100000000060000000002002624_0.smil
 
 
@@ -19,6 +19,23 @@
 
 
 央视频道,#genre#
+CCTV1,http://223.159.9.39:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV1,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://223.159.9.39:8099/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://223.159.9.39:8099/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://223.159.9.39:8099/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://223.159.9.39:8099/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://223.159.9.39:8099/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://223.159.9.39:8099/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4,http://222.241.154.37:9901/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://223.159.9.39:8099/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://223.159.9.39:8099/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5,http://222.241.154.37:9901/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://223.159.9.39:8099/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5+,http://222.241.154.37:9901/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV1,http://42.48.23417.188:9901/tsfile/live/37201_1.m3u8-8?key=txiptv&playlive=1&authid=0
 CCTV1,http://175.10.223428.184:8081/tsfile/live/0001_1.m3u8-8?key=txiptv&playlive=1&authid=0
 CCTV1,http://175.10.223428.184:8081/tsfile/live/0001_1.m3u8-8?key=txiptv&playlive=1&authid=0

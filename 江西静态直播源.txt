@@ -17,3 +17,55 @@ http://116.162.6.192/yun-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
 http://116.162.6.192/yun-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
 http://116.162.6.192/yun-live.jxtvcn.com.cn/live/tv_jxtv8.m3u8
 http://116.162.6.192/yun-live.jxtvcn.com.cn/live/tv_fsgw.m3u8
+
+
+贵州卫视	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH01_lo.m3u8
+贵州公共	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH02_lo.m3u8
+贵州影视	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH03_lo.m3u8
+贵州生活	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH04_lo.m3u8
+贵州法制	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH05_lo.m3u8
+贵州科教	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH06_lo.m3u8
+贵州经济	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH09_lo.m3u8
+贵州移动电视	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CH13_lo.m3u8
+贵州家有购物	http://58.144.154.93/9bwaz8y2.gzstv.com/live/CHJY_lo.m3u8
+	
+江西卫视	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8
+江西都市	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8
+江西经济生活	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+江西影视旅游	http://58.144.154.93/yun-live.jxtvcn.com.cn/jxtv-jxtv/tv_jxtv4.m3u8
+江西公共农业	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8
+江西少儿	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8
+江西新闻	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8
+江西移动	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
+风尚购物	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_fsgw.m3u8
+江西陶瓷	http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
+	
+广州综合	http://58.144.154.93/tencentplay.gztv.com/live/zonghes.m3u8
+广州新闻	http://58.144.154.93/tencentplay.gztv.com/live/xinwen.m3u8
+广州影视	http://58.144.154.93/tencentplay.gztv.com/live/yingshi.m3u8
+广州法治	http://58.144.154.93/tencentplay.gztv.com/live/fazhi.m3u8
+广州南国都市	http://58.144.154.93/tencentplay.gztv.com/live/nanguodushi.m3u8
+广州竞赛	http://58.144.154.93/tencentplay.gztv.com/live/jingsai.m3u8
+	
+佛山综合	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
+佛山公共	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20220818165035f3Ym.m3u8
+佛山影视	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
+佛山南海	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111635455Do3.m3u8
+佛山顺德	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163633BJEU.m3u8
+佛山高明	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu202111111637516YDa.m3u8
+佛山三水	http://58.144.154.93/xmplay.fstv.com.cn/live/xingmu20211111163722fIkX.m3u8
+	
+湖南都市	http://phonetx.qing.mgtv.com/live/0.0&/HNDSMPP360.m3u8
+湖南爱晚	http://phonetx.qing.mgtv.com/live/0.0&/HNGGMPP360.m3u8
+湖南娱乐	http://phonetx.qing.mgtv.com/live/0.0&/HNYLMPP360.m3u8
+湖南电视剧	http://phonetx.qing.mgtv.com/live/0.0&/HNDSJMPP360.m3u8
+湖南快乐购	http://phonetx.qing.mgtv.com/live/0.0&/KLGMPP360.m3u8
+湖南国际	http://phonetx.qing.mgtv.com/live/0.0&/HNGJMPP360.m3u8
+湖南电影	http://phonetx.qing.mgtv.com/live/0.0&/HNDYMPP360.m3u8
+茶频道	http://phonetx.qing.mgtv.com/live/0.0&/CPDMPP360.m3u8
+金鹰纪实	http://phonetx.qing.mgtv.com/live/0.0&/JYJSMPP360.m3u8
+金鹰卡通	http://phonetx.qing.mgtv.com/live/0.0&/JYKTMPP360.m3u8
+先锋乒羽	http://phonetx.qing.mgtv.com/live/0.0&/XFPYMPP360.m3u8
+快乐垂钓	http://phonetx.qing.mgtv.com/live/0.0&/KLCDMPP360.m3u8
+长沙新闻	http://phonetx.qing.mgtv.com/live/0.0&/CSXWMPP360.m3u8
+长沙政法	http://phonetx.qing.mgtv.com/live/0.0&/CSZFMPP360.m3u8
